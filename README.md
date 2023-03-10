@@ -7,7 +7,7 @@
 <table style="display: flex; align-items: center; justify-content: center;">
   <th>Languages and Tools</th>
    <tr>
-     <td width="150px"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"/></a>
+     <td width="150px"><a href="https://www.typescriptlang.org/" target="_blank" alt"Typescript Logo"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"/></a>
      </td>
      <td width="150px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px"/></a>
      </td>
