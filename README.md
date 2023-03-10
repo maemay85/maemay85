@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there
+
+
+
+🛠️ Languages and Tools :
+JavaScript  TypeScript React  Redux   Express   Sequelize  Postgresql  HTML CSS  NodeJS  VSCode  Git
 
 <!--
 **maemay85/maemay85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
