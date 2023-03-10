@@ -2,13 +2,13 @@
 
 <h2 align="center">🏄🏻‍♀️ Greetings, fellow web-surfers 🏄🏻‍♀️</h2>
 
-<div align="center">My name is Mae May (she/her)<br> and <em>git this</em> - I am a software developer <br> (unexpected, I know!)</div><br>
-
+<div align="center">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div><br>
+<hr>
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/C4E22AQFJfYMyyGFIUw/feedshare-shrink_800/0/1676486879450?e=1681344000&v=beta&t=30sUzE7F89O6FGTZtbK4jyWo1txo19hUdjIwZOkwEZI" height="350px" />
 </div>
-
+<hr>
 
   <h3>About Me:</h3>
  
@@ -16,6 +16,8 @@
   <br>🎷 Particularly <em>jazzed</em> about developing music technologies
   <br>💃🏻 Concurrently a professional musician/composer and dancer/choreographer
   <br>🪑 Formerly an <a href="https://maemaywoodworking.com">independent woodworker</a> and Operations Manager at <a href="https://roulette.org">Roulette Intermedium</a> - an experimental music venue in Brooklyn, NY</p>
+
+<hr>
   
 <h3 align="center">✨ Fabulous technologies that I use ✨</h3>
  
