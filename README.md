@@ -3,7 +3,7 @@
 
 
 🛠️ Languages and Tools :
-JavaScript  TypeScript React  Redux   Express   Sequelize  Postgresql  HTML CSS  NodeJS  VSCode  Git
+JavaScript  TypeScript React  Redux   Express   Sequelize  Postgresql  HTML <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>  NodeJS  VSCode  Git
 
 <!--
 **maemay85/maemay85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
