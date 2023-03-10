@@ -33,22 +33,19 @@ My name is Mae May (she/her), and *git this* I am a software developer! Unexpect
      </td>
   </tr>
   <tr>
-     <td width="75px" align="center"><a href="https://www.vexflow.com/" target="_blank"><img src="" height="50px"/></a>
+      <td width="75px" align="center"><a href="https://tonejs.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/11019186?s=280&v=4" height="50px"/></a>
+ </td>
+     <td width="75px" align="center"><a href="https://www.vexflow.com/" target="_blank"><em>VexFlow</em><br>♪ JS ♪</a></td>
+     <td width="75px" align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
-     </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
-     </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="50px"/></a>
      </td>
   </tr>
   
  </table>
 
-
-JavaScript  TypeScript React  Redux  Sequelize  Postgresql  HTML  NodeJS  VSCode  Git
 
 <!--
 **maemay85/maemay85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
