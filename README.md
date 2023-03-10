@@ -57,7 +57,7 @@
      
   </tr>
   <tr>
- <td width="75px" align="center"><a href="linode.com" target="_blank"><img src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" height="50px"/></a>
+ <td width="75px" align="center"><a href="https://linode.com" target="_blank"><img src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" height="50px"/></a>
      </td>
      <td width="75px" align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="50px"/></a>
      </td>
