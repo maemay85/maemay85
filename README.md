@@ -1,4 +1,4 @@
-<base target="_blank">
+[Opens in new tab](https://external.ink?to=/expressjs.com)
 
 ### Hi there
 
