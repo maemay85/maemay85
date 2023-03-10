@@ -1,4 +1,4 @@
-
+<base target="_blank">
 
 ### Hi there
 
