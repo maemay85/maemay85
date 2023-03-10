@@ -17,7 +17,7 @@
   <br>💃🏻 Concurrently a professional musician/composer and dancer/choreographer
   <br>🪑 Formerly an <a href="https://maemaywoodworking.com">independent woodworker</a> and Operations Manager at <a href="https://roulette.org">Roulette Intermedium</a> - an experimental music venue in Brooklyn, NY</p>
   
-<h3 align="center">✨Fabulous technologies that I use✨</h3>
+<h3 align="center">✨ Fabulous technologies that I use ✨</h3>
  
 <table align="center">
  
