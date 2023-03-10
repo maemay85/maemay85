@@ -5,7 +5,7 @@
 My name is Mae May (she/her), and *git this* I am a software developer! Unexpected, I know. 
 
 
-<h3 align="center" width=75%>Here are some of the fabulous technologies that I use in professional, recreational, and <em>secret</em> applications:</h3>
+<h3 align="center" width="50%">Here are some of the fabulous technologies that I use in professional, recreational, and <em>secret</em> applications:</h3>
 <table align="center">
  
    <tr>
