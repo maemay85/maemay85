@@ -7,35 +7,39 @@
 <table style="display: flex; align-items: center; justify-content: center;">
   <th>Languages and Tools</th>
    <tr>
-     <td width="150px">JavaScript
+     <td width="150px"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"/></a>
      </td>
-     <td width="150px">TypeScript
+     <td width="150px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px"/></a>
      </td>
-     <td width="150px">React
+     <td width="150px"><a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px"/></a>
      </td>
-     <td width="150px">Redux
+     <td width="150px"><a href="https://nextjs.org/" target="_blank"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="40px"/></a>
      </td>
-     <td width="150px"><a href="https://expressjs.com/" target="_blank"><img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="40px"/></a>
+     <td width="150px"><a href="https://expressjs.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="40px"/></a>
      </td>
   </tr>
   <tr>
      <td width="150px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40px"/></a>
      </td>
-     <td width="150px">Sequelize
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px">PostgresSQL
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px">HTML5
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
   </tr>
   <tr>
-     <td width="150px">NodeJS
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px">VSCode
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px">Webpack
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px">Next
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
   </tr>
   
