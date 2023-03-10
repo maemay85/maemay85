@@ -15,7 +15,8 @@
   <p>👩🏻‍🎓 Graduated February 2023 from <a href="https://www.gracehopper.com/">Grace Hopper - Fullstack Academy</a>
   <br>🎷 Particularly <em>jazzed</em> about developing music technologies
   <br>💃🏻 Concurrently a professional musician/composer & dancer/choreographer
-  <br>🪑 Formerly a <a href="https://maemaywoodworking.com">woodworker</a> & Operations Manager at <a href="https://roulette.org">Roulette Intermedium</a>, <a href="https://miniexhibitions.com">Mini Exhibitions</a>, & <a href="https://xhbtr.com">XHBTR</a></p>
+  <br>⚙️ Previous work in Operations at <a href="https://roulette.org">Roulette Intermedium</a>, <a href="https://miniexhibitions.com">Mini Exhibitions</a>, & <a href="https://xhbtr.com">XHBTR</a>
+<br>🪑 Formerly an <a href="https://maemaywoodworking.com">Independent Woodworker</a></p>
 
 <hr>
   
