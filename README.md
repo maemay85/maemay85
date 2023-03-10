@@ -1,11 +1,11 @@
 
 
-### Hi there
+## Hi there
 
 My name is Mae May (*she/her*), and *git this* I am a software developer! Unexpected, I know. 
 
 
-## Here are some of the technologies I use in professional, recreational, and *secret* applications:
+### Here are some of the technologies that I use in professional, recreational, and *secret* applications:
 <table style="display: flex; align-items: center; justify-content: center;">
  
    <tr>
