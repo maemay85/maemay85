@@ -23,17 +23,17 @@ My name is Mae May (she/her), and *git this* I am a software developer! Unexpect
   <tr>
      <td width="75px" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="50px"/></a>
      </td>
-     <td width="75px" align="center"<a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"<a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"><a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"><a href="https://sequelize.org/" target="_blank"><img src="https://www.svgrepo.com/show/354333/sequelize.svg" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"><a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height="50px"/></a>
      </td>
   </tr>
   <tr>
-     <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
+     <td width="75px" align="center"><a href="https://www.vexflow.com/" target="_blank"><img src="" height="50px"/></a>
      </td>
      <td width="75px" align="center"><a href="" target="_blank"><img src="" height="50px"/></a>
      </td>
