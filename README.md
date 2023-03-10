@@ -1,4 +1,4 @@
-[Opens in new tab](https://external.ink?to=/expressjs.com)
+
 
 ### Hi there
 
@@ -7,35 +7,35 @@
 <table style="display: flex; align-items: center; justify-content: center;">
   <th>Languages and Tools</th>
    <tr>
-     <td width="100px">JavaScript
+     <td width="150px">JavaScript
      </td>
-     <td width="100px">TypeScript
+     <td width="150px">TypeScript
      </td>
-     <td width="100px">React
+     <td width="150px">React
      </td>
-     <td width="100px">Redux
+     <td width="150px">Redux
      </td>
-     <td width="100px"><a href="https://expressjs.com/" target="_blank"><img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="40px"/></a>
-     </td>
-  </tr>
-  <tr>
-     <td width="100px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40px"/></a>
-     </td>
-     <td width="100px">Sequelize
-     </td>
-     <td width="100px">PostgresSQL
-     </td>
-     <td width="100px">HTML5
+     <td width="150px"><a href="https://expressjs.com/" target="_blank"><img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="40px"/></a>
      </td>
   </tr>
   <tr>
-     <td width="100px">NodeJS
+     <td width="150px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40px"/></a>
      </td>
-     <td>VSCode
+     <td width="150px">Sequelize
      </td>
-     <td>Webpack
+     <td width="150px">PostgresSQL
      </td>
-     <td>Next
+     <td width="150px">HTML5
+     </td>
+  </tr>
+  <tr>
+     <td width="150px">NodeJS
+     </td>
+     <td width="150px">VSCode
+     </td>
+     <td width="150px">Webpack
+     </td>
+     <td width="150px">Next
      </td>
   </tr>
   
