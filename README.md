@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4E22AQFJfYMyyGFIUw/feedshare-shrink_800/0/1676486879450?e=1681344000&v=beta&t=30sUzE7F89O6FGTZtbK4jyWo1txo19hUdjIwZOkwEZI" height="250px" />
+  <img src="https://media.licdn.com/dms/image/C4E22AQFJfYMyyGFIUw/feedshare-shrink_800/0/1676486879450?e=1681344000&v=beta&t=30sUzE7F89O6FGTZtbK4jyWo1txo19hUdjIwZOkwEZI" height="350px" />
 </div>
 
 
