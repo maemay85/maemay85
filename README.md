@@ -2,44 +2,46 @@
 
 ### Hi there
 
+My name is Mae May (*she/her*), and *git this* I am a software developer! Unexpected, I know. 
+
 
 
 <table style="display: flex; align-items: center; justify-content: center;">
-  <th>Languages and Tools</th>
+ 
    <tr>
-     <td width="150px"><a href="https://www.typescriptlang.org/" target="_blank" alt"Typescript Logo"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"/></a>
+     <td width="75px"><a href="https://www.typescriptlang.org/" target="_blank" alt"Typescript Logo"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"/></a>
      </td>
-     <td width="150px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px"/></a>
+     <td width="75px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px"/></a>
      </td>
-     <td width="150px"><a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px"/></a>
+     <td width="75px"><a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px"/></a>
      </td>
-     <td width="150px"><a href="https://nextjs.org/" target="_blank"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="40px"/></a>
+     <td width="75px"><a href="https://nextjs.org/" target="_blank"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="40px"/></a>
      </td>
-     <td width="150px"><a href="https://expressjs.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="40px"/></a>
-     </td>
-  </tr>
-  <tr>
-     <td width="150px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40px"/></a>
-     </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
-     </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
-     </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
-     </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     <td width="75px"><a href="https://expressjs.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="40px"/></a>
      </td>
   </tr>
   <tr>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     <td width="75px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40px"/></a>
      </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
-     <td width="150px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+  </tr>
+  <tr>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
+     </td>
+     <td width="75px"><a href="" target="_blank"><img src="" height="40px"/></a>
      </td>
   </tr>
   
