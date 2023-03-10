@@ -1,11 +1,24 @@
 
 
-## Hi there
+<h2 align="center">🏄🏻‍♀️ Greetings, fellow web-surfers 🏄🏻‍♀️</h2>
 
-My name is Mae May (she/her), and *git this* I am a software developer! Unexpected, I know. 
+<div align="center">My name is Mae May (she/her)<br> and <em>git this</em> - I am a software developer <br> (unexpected, I know!)</div><br>
 
 
-<h3 align="center">Here are some of the fabulous technologies that I use in professional, recreational, and <em>secret</em> applications:</h3>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D4E03AQGdRXyFYcvZEA/profile-displayphoto-shrink_800_800/0/1664483636461?e=1683763200&v=beta&t=GiLaF_qR0VuNdfCpScdsUeE_2QxHscRj_GDc8jeZXMc" height="250px" />
+</div>
+
+
+  <h3>About Me:</h3>
+ 
+  <p>👩🏻‍🎓 Graduated February 2023 from <a href="https://www.gracehopper.com/">Grace Hopper - Fullstack Academy</a>
+  <br>🎷 Particularly <em>jazzed</em> about developing music technologies
+  <br>💃🏻 Concurrently a professional musician/composer and dancer/choreographer
+  <br>🪑 Formerly an <a href="https://maemaywoodworking.com">independent woodworker</a> and Operations Manager at <a href="https://roulette.org">Roulette Intermedium</a> - an experimental music venue in Brooklyn, NY</p>
+  
+<h3 align="center">✨Fabulous technologies that I use✨</h3>
+ 
 <table align="center">
  
    <tr>
@@ -17,32 +30,39 @@ My name is Mae May (she/her), and *git this* I am a software developer! Unexpect
      </td>
      <td width="75px" align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="50px"/></a>
-     </td>
+     
   </tr>
   <tr>
+   <td width="75px" align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="50px"/></a>
+     </td>
      <td width="75px" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="50px"/></a>
      </td>
      <td width="75px" align="center"<a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50px"/></a>
      </td>
      <td width="75px" align="center"><a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px"/></a>
      </td>
-     <td width="75px" align="center"><a href="https://sequelize.org/" target="_blank"><img src="https://www.svgrepo.com/show/354333/sequelize.svg" height="50px"/></a>
+     
+  </tr>
+  <tr>
+ <td width="75px" align="center"><a href="https://sequelize.org/" target="_blank"><img src="https://www.svgrepo.com/show/354333/sequelize.svg" height="50px"/></a>
      </td>
      <td width="75px" align="center"><a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height="50px"/></a>
      </td>
-  </tr>
-  <tr>
       <td width="75px" align="center"><a href="https://tonejs.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/11019186?s=280&v=4" height="50px"/></a>
  </td>
      <td width="75px" align="center"><a href="https://www.vexflow.com/" target="_blank"><em>VexFlow</em><br>♪ JS ♪</a></td>
+     
+  </tr>
+  <tr>
+ <td width="75px" align="center"><a href="linode.com" target="_blank"><img src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" height="50px"/></a>
+     </td>
      <td width="75px" align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="50px"/></a>
      </td>
      <td width="75px" align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="50px"/></a>
      </td>
      <td width="75px" align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="50px"/></a>
      </td>
-  </tr>
+ </tr>
   
  </table>
 
