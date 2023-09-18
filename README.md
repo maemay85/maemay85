@@ -5,9 +5,6 @@
 <div align="center">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div><br>
 <hr>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/C4E22AQFJfYMyyGFIUw/feedshare-shrink_800/0/1676486879450?e=1681344000&v=beta&t=30sUzE7F89O6FGTZtbK4jyWo1txo19hUdjIwZOkwEZI" height="350px" />
-</div>
 <hr>
 
   <h3>About Me:</h3>
