@@ -1,8 +1,10 @@
 
 
-<h2 align="center">🏄🏻‍♀️ Greetings, fellow web-surfers 🏄🏻‍♀️</h2>
+<h2 align="justify">🏄🏻‍♀️ Greetings, fellow web-surfers 🏄🏻‍♀️</h2>
 
-<div align="center">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div><br>
+<div align="justify">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div><br>
+<
+
 <hr>
 
   <h3>About Me:</h3>
@@ -15,9 +17,9 @@
 
 <hr>
   
-<h3 align="center">✨ Fabulous technologies that I use ✨</h3>
+<h3 align="justify">✨ Fabulous technologies that I use ✨</h3>
  
-<table align="center">
+<table align="justify">
  
    <tr>
      <td width="75px" align="center"><a href="https://www.typescriptlang.org/" target="_blank" alt"Typescript Logo"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="50px"/></a>
