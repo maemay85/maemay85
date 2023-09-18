@@ -2,10 +2,10 @@
 
 <h2 align="justify">🏄🏻‍♀️ Greetings, fellow web-surfers 🏄🏻‍♀️</h2>
 
-<div align="justify">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div><br>
-<div align="center">
-  <a href="https://maemay.codes">Portfolio</a>
-</div>
+<div align="justify">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div>
+<h3 align="justify">
+  Check out my portfolio<a href="https://maemay.codes">here</a>
+</h3>
 
 <hr>
 
