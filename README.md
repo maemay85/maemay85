@@ -5,8 +5,6 @@
 <div align="center">My name is Mae May (she/her) and <em>git this</em> <br>I am a software developer - unexpected, I know!</div><br>
 <hr>
 
-<hr>
-
   <h3>About Me:</h3>
  
   <p>👩🏻‍🎓 Graduated February 2023 from <a href="https://www.gracehopper.com/">Grace Hopper - Fullstack Academy</a>
